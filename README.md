@@ -4,4 +4,4 @@
 
 Data_prep.ipynb - Load the total dataset
 
-Data_inspect.ipynb - Descriptive analyse the dataset, includes the trajectary of boats generated form location data, as well as the histogram of velocity and direction.
+Data_inspect.ipynb - Descriptive analyse the dataset, includes the trajectary of boats generated form location data, as well as the histograms of velocity and direction.
